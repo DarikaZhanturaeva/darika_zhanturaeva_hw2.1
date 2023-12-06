@@ -3,7 +3,7 @@ public class Main {
     int a = (int) (Math.random()*(100));
 
     System.out.println(a);
-
+//на сообразительность
             System.out.println(goForAWalk(35, 17));
             System.out.println(goForAWalk(18, 28));
             System.out.println(goForAWalk(50, 10));
